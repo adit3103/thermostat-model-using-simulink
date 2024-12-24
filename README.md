@@ -1,0 +1,2 @@
+# thermostat-model-using-simulink
+Thermostats are an essential part of modern heating, ventilation, and air conditioning (HVAC) systems. They maintain a comfortable environment by regulating the temperature of a house based on a desired setpoint. This project focuses on modeling a first-order cooling equation to represent the temperature dynamics of a house and designing a digital control system to regulate the temperature. The proposed system emulates the functioning of a thermostat, leveraging discrete-time modeling to simulate its behavior in Simulink.
